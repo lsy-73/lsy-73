@@ -1,4 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,I+am+Liu+Sang;Glad+you+came+to+visit+my+GitHub+homepage&color=696969)](https://git.io/typing-svg)
+![image]()
+
 <!-- ### Hi there 👋，I am 刘桑. -->
 <!--
 **qinhua/qinhua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
