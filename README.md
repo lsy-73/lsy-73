@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<div align="center" ><img order-radius="100px" src="https://github.com/lsy-73/Personal-picture-repository/blob/main/%E6%95%B2%E4%BB%A3%E7%A0%81%E5%8A%A8%E5%9B%BE.gif"/></div>
 <br>
 <!-- 个人资料徽标 -->
 <div align="center">
@@ -16,7 +16,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=lsy-73" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://github.com/lsy-73/Personal-picture-repository/blob/main/github-contribution-grid-snake.svg" /></div>
 
 💪 Currently learning: 
 
@@ -53,7 +53,7 @@
 
 
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
+<div align="center"><img src="https://github.com/lsy-73/Personal-picture-repository/blob/main/%E8%AF%AD%E8%A8%80%E9%95%BF%E5%9B%BE.png" /></div>
 
 
 
