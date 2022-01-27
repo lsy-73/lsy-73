@@ -1,8 +1,32 @@
-- 👋 我是个非常帅的帅哥，在不知名大学安康学院就读
-- 🌱 正在学习java
-- 🏏 联系方式qq：2312545741
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,I+am+Liu+Sang;Glad+you+came+to+visit+my+GitHub+homepage&color=696969)](https://git.io/typing-svg)
+<!-- ### Hi there 👋，I am 刘桑. -->
+<!--
+**qinhua/qinhua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!---
-lsy-73/lsy-73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<img align="right" width="400px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lsy-73&count_private=true&show_icons=true" />
+
+#### 🛠 &nbsp;Tech Stack
+
+
+![java](https://img.shields.io/badge/-java-333333?style=flat&logo=java&color=FFA07A)
+![typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript&color=87CEEB)
+<!-- ![electron](https://img.shields.io/badge/-electron-333333?style=flat&logo=electron) -->
+![uni-app](https://img.shields.io/badge/-node-333333?style=flat&logo=node.js&color=90EE90)
+![mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql&color=FFA07A)
+
+#### 🌱 &nbsp;Currently learning
+
+![Linux](https://img.shields.io/badge/-Linux-blue?style=flat&logo=Linux)
+![vue](https://img.shields.io/badge/-vue-333333?style=flat&logo=vue.js&color=90EE90)
+<!-- ![dart](https://img.shields.io/badge/-dart-yellow?style=flat&logo=dart) -->
